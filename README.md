@@ -39,6 +39,7 @@ If you find the code in this repository useful for your research consider citing
 ```
 @article{cao2023FSCH,
 title={Unsupervised Deep Hashing with Fine-grained Similarity-preserving Contrastive Learning for Image Retrieval},
+journal = {IEEE Transactions on Circuits and Systems for Video Technology}​，
 author={Hu Cao, Lei Huang, Jie Nie, Zhiqiang Wei},
 year={2023}
 }
